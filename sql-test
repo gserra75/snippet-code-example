@@ -1,0 +1,5 @@
+Select
+  name,
+  surname,
+  city
+From Customers;
